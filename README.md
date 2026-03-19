@@ -55,7 +55,7 @@ Portfolio/ │ ├── index.html ├── css/ ├── js/ ├── image
 
 ## 📬 Contact
 
-- 📌 Email: [ammarsaidelshafey@gmail.com](ammarsaidelshafey@gmail.com)\
+- 📌 Email: [ammarsaidelshafey@gmail.com](ammarsaidelshafey@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ammar-elshafey](https://linkedin.com/in/ammar-elshafey)
 - 🐙 GitHub: [github.com/AmmarElshafey](https://github.com/AmmarElshafey)
 
